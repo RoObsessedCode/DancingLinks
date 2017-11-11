@@ -1,0 +1,15 @@
+{
+  "name": "dancingLinks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "multi-dim": "^1.0.2"
+  }
+}
